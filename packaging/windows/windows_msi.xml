@@ -49,8 +49,7 @@
 							Id="PATH"
 							Name="PATH"
 							Value="[INSTALLDIR]"
-							Permanent="yes"
-							Action="create"
+							Part="last"
 							System="yes"
 						/>
           </Component>
